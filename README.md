@@ -22,5 +22,11 @@ Este tutorial detalha como usar o GitHub Actions para automatizar o workflow do 
 
 O uso combinado de Terraform Cloud e GitHub Actions para automatizar a implantação de servidores web acessíveis publicamente demonstra uma poderosa capacidade de integração e automação para gestão de infraestrutura como código.
 
+![image](assets/print1.png)
+
+![image](assets/print2.png)
+
+![image](assets/print3.png)
+
 
 
